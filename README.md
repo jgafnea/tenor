@@ -1,12 +1,10 @@
-# tenor
-
 ## wat
 
 Host multiple sites/pages with GitHub Pages.
 
 ## how
 
-#### Create repos
+#### Create repos:
 
 - `jgafnea.github.io`—main page, served from `jgafnea.github.io`
 - `tenor`—other sites/pages, served from `jgafnea.github.io/tenor`
